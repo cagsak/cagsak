@@ -18,6 +18,9 @@
   <a href="https://www.linkedin.com/in/mustafaçağşak/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="76" height="40" alt="linkedin logo"  />
   </a>
+  <a href="https://mustafacagsak.me/" target="_blank">
+    <img src="https://mustafacagsak.me/fotograflar/web-icon.png" width="40" height="40" alt="My website logo"  />
+  </a>
 </div>
 
 ###
