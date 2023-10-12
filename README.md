@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Mustafa and I'm a student from İstanbul</p>
+<p align="left">My name is Mustafa and I'm a student from Istanbul Technical University</p>
 
 ###
 
